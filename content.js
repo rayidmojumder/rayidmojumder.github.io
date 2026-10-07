@@ -9,8 +9,8 @@ window.PORTFOLIO = {
     "photo": "assets/portrait.jpg",
     "photoAlt": "Md. Rayid Hasan Mojumder skiing at Tussey Mountain",
     "bio": [
-      "I am a Ph.D. researcher in Electrical Engineering at Penn State, working on glass-based photonic interconnects for advanced semiconductor packaging. My research develops dense, three-dimensional optical links for high-bandwidth, energy-efficient communication in AI and high-performance computing systems.",
-      "My work combines optical modeling, femtosecond-laser fabrication, optical characterization, and package-level link-budget analysis. I am advised by Prof. Madhavan Swaminathan and Prof. Ning Li within the SRC JUMP 2.0 CHIMES center."
+      "Ph.D. student in Electrical Engineering at Penn State researching 3D photonic interconnects in glass substrates for AI datacenter applications and advanced semiconductor packaging. Experienced in electromagnetic and photonic modeling, femtosecond-laser waveguide fabrication, cleanroom processing, optical characterization, and system-level link analysis. Research background also includes semiconductor materials and device simulation, organic neuromorphicelectronics, andmachinelearning. Recipientofthe 2026 IEEE EPS Graduate Student Grant, an IEEE ECTC Student Travel Grant, and 2025 Penn State Fox Summer Research Grant. Seeking R&D opportunities in optical interconnects, integrated photonics, microelectronics, and electronic/photonic packaging. Advised by Prof. Madhavan Swaminathan and Prof. Ning Li within the SRC JUMP 2.0 CHIMES center.",
+      "Before current work in photonics and semiconductor packaging, conducted research on organic neuromorphic transistors, first-principles density-functional-theory (DFT) modeling of semiconductor materials, and machine-learning-based power-system stability analysis. Completed B.Sc. and M.Sc. in Electrical and Electronic Engineering at Khulna University of Engineering & Technology (KUET), Bangladesh, and previously served as a Lecturer at Daffodil International University, Dhaka, Bangladesh."
     ],
     "interests": [
       "Glass photonics",
@@ -27,7 +27,13 @@ window.PORTFOLIO = {
         "label": "LinkedIn",
         "url": "https://www.linkedin.com/in/rayidhasan/"
       }
-    ]
+      {
+        "label": "Resume",
+        "url": "https://pennstateoffice365-my.sharepoint.com/:b:/g/personal/mvm7218_psu_edu/IQBioR6nZ8kETpaMbo4_kYaxARhsuRprarL15t5z9LQWI4M?e=OtKuwa
+    ]"
+      }
+
+      
   },
   "news": [
     {
