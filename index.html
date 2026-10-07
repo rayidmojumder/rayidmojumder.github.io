@@ -38,22 +38,24 @@
         <figure class="portrait"><img id="portrait" width="600" height="700" alt=""><figcaption id="location"></figcaption></figure>
       </div>
       <div class="interests" id="interests" aria-label="Research interests"></div>
-      <div class="news-layout"><div><p class="eyebrow">From the lab & beyond</p><h2>Recent news</h2></div><ol id="news" class="news-list"></ol></div>
+      <div class="news-layout"><h2>Recent news</h2><ol id="news" class="news-list"></ol></div>
     </section>
     <section id="research" class="major-section" aria-labelledby="research-heading">
-      <div class="section-heading"><div><p class="eyebrow">01 / Research</p><h2 id="research-heading">Research spotlight</h2></div><p class="section-note">From materials and devices<br>to optical interconnects.</p></div>
+      <div class="section-heading"><h2 id="research-heading">Research spotlight</h2></div>
       <div id="research-tabs" class="research-tabs" role="tablist" aria-label="Research areas"></div>
       <div id="research-panel" class="research-panel" role="tabpanel" tabindex="0"></div>
     </section>
     <section id="publications" class="major-section" aria-labelledby="publications-heading">
-      <div class="section-heading"><div><p class="eyebrow">02 / Publications</p><h2 id="publications-heading">Publications</h2></div><div class="section-actions"><a id="scholar-link" target="_blank" rel="noopener noreferrer">Google Scholar</a><button id="export-bib" class="outline-button">Export BibTeX</button></div></div>
+      <div class="section-heading"><h2 id="publications-heading">Publications</h2><div class="section-actions"><a id="scholar-link" target="_blank" rel="noopener noreferrer">Google Scholar</a><button id="export-bib" class="outline-button">Export BibTeX</button></div></div>
       <form class="publication-filters" role="search" onsubmit="return false"><div class="search-field"><label class="visually-hidden" for="search">Search publications by title, author, venue, or DOI</label><input id="search" type="search" placeholder="Search title, author, venue…" autocomplete="off"></div><div><label class="visually-hidden" for="year-filter">Publication year</label><select id="year-filter"><option value="all">All years</option></select></div><div><label class="visually-hidden" for="type-filter">Publication type</label><select id="type-filter"><option value="all">All types</option><option>Journal</option><option>Conference</option><option>Preprint</option></select></div><button type="button" id="clear-filters" class="text-button">Clear</button></form>
       <p id="results-count" class="results-count" aria-live="polite"></p>
+      <p class="citation-source-note">Citation counts from Crossref. Refreshed automatically when you visit.</p>
       <div id="publication-list"></div>
     </section>
   </main>
   <footer class="page-shell"><p id="copyright"></p><p id="updated"></p><a href="#home">Back to top</a></footer>
   <dialog id="citation-dialog" aria-labelledby="citation-heading"><div class="dialog-heading"><h2 id="citation-heading">BibTeX citation</h2><button id="close-citation" class="outline-button">Close</button></div><p id="citation-paper"></p><pre id="citation-text" tabindex="0"></pre><div class="dialog-actions"><button id="copy-citation" class="primary-button">Copy citation</button><button id="download-citation" class="outline-button">Download .bib</button></div><p id="copy-status" role="status"></p></dialog>
+  <dialog id="figure-dialog" aria-labelledby="figure-heading"><div class="dialog-heading"><h2 id="figure-heading">Research figure</h2><button id="close-figure" class="outline-button">Close</button></div><figure><div class="enlarged-figure"><img id="enlarged-image" alt=""></div><figcaption id="enlarged-caption"></figcaption></figure></dialog>
   <div id="toast" class="toast" role="status" hidden></div>
   <noscript><div class="page-shell">Please enable JavaScript to display the profile, research, and publications.</div></noscript>
 </body>
