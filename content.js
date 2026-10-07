@@ -27,6 +27,14 @@ window.PORTFOLIO = {
       {
         "label": "LinkedIn",
         "url": "https://www.linkedin.com/in/rayidhasan/"
+      },
+      {
+        "label": "Resume",
+        "url": "https://pennstateoffice365-my.sharepoint.com/:f:/g/personal/mvm7218_psu_edu/IgDDqy1uiRENRrxPIAv5ydNrAdMfbrKQWvHWvFPLNm0N8R0?e=IZneLw"
+      },
+      {
+        "label": "Email",
+        "url": "mailto:mvm7218@psu.edu"
       }
     ]
   },
