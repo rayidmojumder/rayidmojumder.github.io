@@ -29,7 +29,7 @@ window.PORTFOLIO = {
       },
       {
         "label": "Resume",
-        "url": "https://pennstateoffice365-my.sharepoint.com/:b:/g/personal/mvm7218_psu_edu/IQBioR6nZ8kETpaMbo4_kYaxARhsuRprarL15t5z9LQWI4M?e=OtKuwa
+        "url": "https://pennstateoffice365-my.sharepoint.com/:b:/g/personal/mvm7218_psu_edu/IQBioR6nZ8kETpaMbo4_kYaxARhsuRprarL15t5z9LQWI4M?e=OtKuwa"
       }    
   ],
   "news": [
