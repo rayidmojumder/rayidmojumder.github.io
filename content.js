@@ -1,7 +1,7 @@
 // EDIT YOUR SITE HERE. Copy an existing entry to add news, figures, or publications.
 window.PORTFOLIO = {
   "profile": {
-    "name": "Md. Rayid Hasan Mojumder",
+    "name": "Rayid Mojumder",
     "shortName": "Rayid Mojumder",
     "role": "Ph.D. researcher · Electrical Engineering",
     "institution": "The Pennsylvania State University",
