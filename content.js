@@ -5,7 +5,7 @@ window.PORTFOLIO = {
     "shortName": "Rayid Mojumder",
     "role": "Ph.D. researcher · Electrical Engineering",
     "institution": "The Pennsylvania State University",
-    "location": "Nanofabrication Laboratory, Penn State",
+    "location": "University Park, Penn State",
     "photo": "assets/Rayid_Cleanroom.jpg",
     "photoAlt": "Md. Rayid Hasan Mojumder inside cleanroom",
     "bio": [
