@@ -1,13 +1,13 @@
 // EDIT YOUR SITE HERE. Copy an existing entry to add news, figures, or publications.
 window.PORTFOLIO = {
   "profile": {
-    "name": "Rayid Mojumder",
+    "name": "Md Rayid Hasan Mojumder",
     "shortName": "Rayid Mojumder",
     "role": "Ph.D. researcher · Electrical Engineering",
     "institution": "The Pennsylvania State University",
     "location": "University Park, Pennsylvania",
     "photo": "assets/Rayid_Cleanroom.jpg",
-    "photoAlt": "Md. Rayid Hasan Mojumder skiing at Tussey Mountain",
+    "photoAlt": "Md. Rayid Hasan Mojumder working in cleanroom",
     "bio": [
       "Ph.D. student in Electrical Engineering at Penn State researching 3D photonic interconnects in glass substrates for AI datacenter applications and advanced semiconductor packaging. Experienced in electromagnetic and photonic modeling, femtosecond-laser waveguide fabrication, TGVs, PIC-waveguide coupling, cleanroom processing, optical characterization, and system-level link analysis. Recipient of the 2026 IEEE EPS Graduate Student Grant, an IEEE ECTC Student Travel Grant, and 2025 Penn State Fox Summer Research Grant. Seeking R&D opportunities in optical interconnects, integrated photonics, microelectronics, and electronic/photonic packaging. Advised by Prof. Madhavan Swaminathan and Prof. Ning Li within the SRC JUMP 2.0 CHIMES center.",
       "Previously did research on organic neuromorphic transistors, first-principles density-functional-theory (DFT) modeling of semiconductor materials, and machine-learning-based power-system stability analysis. Completed B.Sc. and M.Sc. in Electrical and Electronic Engineering at Khulna University of Engineering & Technology (KUET), Bangladesh, and previously served as a Lecturer at Daffodil International University, Dhaka, Bangladesh."
