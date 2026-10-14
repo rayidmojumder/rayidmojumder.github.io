@@ -150,6 +150,7 @@ window.PORTFOLIO = {
     }
   ],
   "publications": [
+// Submitted journal/Confernece papers
 {
     "id": "mojumder2026massively",
     "title": "Massively Parallel 3D Photonic Interconnects in Glass Substrates for AI Datacenter Applications",
@@ -207,6 +208,7 @@ window.PORTFOLIO = {
     "status": "Abstract submitted",
     "citations": null
   },
+ // Published journal/Confernece papers
     {
       "id": "11561307",
       "title": "Photonic Interconnects in Glass Core for AI Data Center Applications",
